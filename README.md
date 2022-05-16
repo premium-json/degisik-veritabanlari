@@ -1,4 +1,4 @@
-# veritabanlar-
+# değişik veritabanları
 
 - Sektör Listesi.Json and Sektör Listesi.Xlsx
 
