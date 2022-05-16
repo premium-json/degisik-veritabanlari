@@ -1,0 +1,380 @@
+[
+ {
+  "MESLEKLER": "ahşap mobilya imalatçısı"
+ },
+ {
+  "MESLEKLER": "aktör"
+ },
+ {
+  "MESLEKLER": "anketör"
+ },
+ {
+  "MESLEKLER": "araştırma görevlisi"
+ },
+ {
+  "MESLEKLER": "arıcı"
+ },
+ {
+  "MESLEKLER": "astrolog\/falcı"
+ },
+ {
+  "MESLEKLER": "astsubay"
+ },
+ {
+  "MESLEKLER": "aşçı"
+ },
+ {
+  "MESLEKLER": "avukat"
+ },
+ {
+  "MESLEKLER": "ayakkabı boyacısı"
+ },
+ {
+  "MESLEKLER": "ayakkabı yapımcısı \/ tamircisi"
+ },
+ {
+  "MESLEKLER": "bahçıvan"
+ },
+ {
+  "MESLEKLER": "balıkçı (balık avlayan kişi)"
+ },
+ {
+  "MESLEKLER": "basımcı (matbaacı)"
+ },
+ {
+  "MESLEKLER": "belediye başkanı"
+ },
+ {
+  "MESLEKLER": "besici"
+ },
+ {
+  "MESLEKLER": "bilgisayar yazılımı ve uygulama geliştiricisi"
+ },
+ {
+  "MESLEKLER": "bina-büro temizlikçisi"
+ },
+ {
+  "MESLEKLER": "biyolog"
+ },
+ {
+  "MESLEKLER": "boyacı"
+ },
+ {
+  "MESLEKLER": "broker (menkul kıymetler ve finans alım satımcıları ve aracıları)"
+ },
+ {
+  "MESLEKLER": "bulaşıkçı"
+ },
+ {
+  "MESLEKLER": "büro elemanı \/ ofisboy"
+ },
+ {
+  "MESLEKLER": "büyükelçi"
+ },
+ {
+  "MESLEKLER": "çamaşırcı"
+ },
+ {
+  "MESLEKLER": "çevirmen"
+ },
+ {
+  "MESLEKLER": "çiftçi"
+ },
+ {
+  "MESLEKLER": "çocuk bakıcısı"
+ },
+ {
+  "MESLEKLER": "çöpçü"
+ },
+ {
+  "MESLEKLER": "daktilograf"
+ },
+ {
+  "MESLEKLER": "dansöz"
+ },
+ {
+  "MESLEKLER": "dekoratör"
+ },
+ {
+  "MESLEKLER": "demirci"
+ },
+ {
+  "MESLEKLER": "diş hekimi"
+ },
+ {
+  "MESLEKLER": "ebe"
+ },
+ {
+  "MESLEKLER": "eczacı"
+ },
+ {
+  "MESLEKLER": "ekonomist"
+ },
+ {
+  "MESLEKLER": "elektrik mühendisi"
+ },
+ {
+  "MESLEKLER": "emlakçı"
+ },
+ {
+  "MESLEKLER": "evlerde çalışan temizlikçi"
+ },
+ {
+  "MESLEKLER": "fırıncı"
+ },
+ {
+  "MESLEKLER": "fizyoterapist"
+ },
+ {
+  "MESLEKLER": "futbol hakemi"
+ },
+ {
+  "MESLEKLER": "gardiyan"
+ },
+ {
+  "MESLEKLER": "garson"
+ },
+ {
+  "MESLEKLER": "gazeteci"
+ },
+ {
+  "MESLEKLER": "gemi makinisti"
+ },
+ {
+  "MESLEKLER": "gemi tayfası"
+ },
+ {
+  "MESLEKLER": "genel müdür (kamu)"
+ },
+ {
+  "MESLEKLER": "genel müdür (özel sektör)"
+ },
+ {
+  "MESLEKLER": "general"
+ },
+ {
+  "MESLEKLER": "güvenlik görevlisi"
+ },
+ {
+  "MESLEKLER": "hakim"
+ },
+ {
+  "MESLEKLER": "halkla ilişkiler uzmanı"
+ },
+ {
+  "MESLEKLER": "hamal"
+ },
+ {
+  "MESLEKLER": "hastabakıcı"
+ },
+ {
+  "MESLEKLER": "hemşire"
+ },
+ {
+  "MESLEKLER": "imam"
+ },
+ {
+  "MESLEKLER": "insan kaynakları uzmanı"
+ },
+ {
+  "MESLEKLER": "inşaat işçisi"
+ },
+ {
+  "MESLEKLER": "inşaat mühendisi"
+ },
+ {
+  "MESLEKLER": "inşaat ustası"
+ },
+ {
+  "MESLEKLER": "istatistikçi"
+ },
+ {
+  "MESLEKLER": "itfaiyeci"
+ },
+ {
+  "MESLEKLER": "kameraman"
+ },
+ {
+  "MESLEKLER": "kasap"
+ },
+ {
+  "MESLEKLER": "kasiyer"
+ },
+ {
+  "MESLEKLER": "kaynakçı"
+ },
+ {
+  "MESLEKLER": "kimyager"
+ },
+ {
+  "MESLEKLER": "kuaför"
+ },
+ {
+  "MESLEKLER": "kütüphaneci"
+ },
+ {
+  "MESLEKLER": "laborant"
+ },
+ {
+  "MESLEKLER": "lokomotif sürücüsü"
+ },
+ {
+  "MESLEKLER": "maden işçisi"
+ },
+ {
+  "MESLEKLER": "mağaza müdürü"
+ },
+ {
+  "MESLEKLER": "mağaza satış elemanı"
+ },
+ {
+  "MESLEKLER": "makine mühendisi"
+ },
+ {
+  "MESLEKLER": "makine operatörü"
+ },
+ {
+  "MESLEKLER": "marangoz"
+ },
+ {
+  "MESLEKLER": "mekanik ve elektronik makine montajcısı"
+ },
+ {
+  "MESLEKLER": "milletvekili"
+ },
+ {
+  "MESLEKLER": "mimar"
+ },
+ {
+  "MESLEKLER": "muhasebeci"
+ },
+ {
+  "MESLEKLER": "muhtar"
+ },
+ {
+  "MESLEKLER": "operatörü"
+ },
+ {
+  "MESLEKLER": "ormancı"
+ },
+ {
+  "MESLEKLER": "otel ve restoran müdürü"
+ },
+ {
+  "MESLEKLER": "oto tamircisi"
+ },
+ {
+  "MESLEKLER": "otobüs şoförü"
+ },
+ {
+  "MESLEKLER": "otopark görevlisi"
+ },
+ {
+  "MESLEKLER": "öğretmen"
+ },
+ {
+  "MESLEKLER": "özel şirkette müdür"
+ },
+ {
+  "MESLEKLER": "pazarcı"
+ },
+ {
+  "MESLEKLER": "polis memuru"
+ },
+ {
+  "MESLEKLER": "postacı"
+ },
+ {
+  "MESLEKLER": "psikolog"
+ },
+ {
+  "MESLEKLER": "reklam ve pazarlama uzmanı 56"
+ },
+ {
+  "MESLEKLER": "resepsiyonist"
+ },
+ {
+  "MESLEKLER": "sekreter"
+ },
+ {
+  "MESLEKLER": "seyahat rehberi"
+ },
+ {
+  "MESLEKLER": "sıvacı"
+ },
+ {
+  "MESLEKLER": "sigorta satış temsilcisi"
+ },
+ {
+  "MESLEKLER": "sokak satıcısı \/ seyyar satıcı"
+ },
+ {
+  "MESLEKLER": "sosyal hizmet uzmanı"
+ },
+ {
+  "MESLEKLER": "sosyolog"
+ },
+ {
+  "MESLEKLER": "spiker"
+ },
+ {
+  "MESLEKLER": "spor antrenörü"
+ },
+ {
+  "MESLEKLER": "stüdyo fotoğrafçısı"
+ },
+ {
+  "MESLEKLER": "süt ürünleri imalatçısı"
+ },
+ {
+  "MESLEKLER": "şantiye şefi"
+ },
+ {
+  "MESLEKLER": "tabelacı"
+ },
+ {
+  "MESLEKLER": "taksi şoförü"
+ },
+ {
+  "MESLEKLER": "tarım işçisi \/ ırgat"
+ },
+ {
+  "MESLEKLER": "teknisyen"
+ },
+ {
+  "MESLEKLER": "terzi"
+ },
+ {
+  "MESLEKLER": "tesisatçı (elektrik, su, bina)"
+ },
+ {
+  "MESLEKLER": "tıp doktoru"
+ },
+ {
+  "MESLEKLER": "üniversite profesörü"
+ },
+ {
+  "MESLEKLER": "vali"
+ },
+ {
+  "MESLEKLER": "vergi memuru"
+ },
+ {
+  "MESLEKLER": "veteriner"
+ },
+ {
+  "MESLEKLER": "veznedar"
+ },
+ {
+  "MESLEKLER": "web tasarımcısı"
+ },
+ {
+  "MESLEKLER": "yazar"
+ },
+ {
+  "MESLEKLER": "yönetici sekreteri"
+ },
+ {
+  "MESLEKLER": "yüzbaşı"
+ }
+]
